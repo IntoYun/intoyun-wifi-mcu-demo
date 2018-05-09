@@ -1,0 +1,3 @@
+[submodule "src/intoyun-wifi-mcu-sdk"]
+	path = src/intoyun-wifi-mcu-sdk
+	url = git@github.com:IntoYun/intoyun-wifi-mcu-sdk.git
