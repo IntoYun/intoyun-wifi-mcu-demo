@@ -10,7 +10,7 @@
 +-- lib                       : 库目录
 +-- keil                      : keil工程
 +-- src                       : 源文件目录
-    +-- intoyun-wifi-mcu-sdk  : 从模式wifi MCU端SDK
+    +-- sdk  : 从模式wifi MCU端SDK
     +-- mcu                   : MCU SDK库
     +-- user                  : 用户应用代码
 +-- intoyuniot.ini            : intoyuniot配置文件
@@ -34,7 +34,7 @@ git clone --recursive https://github.com/IntoYun/intoyun-wifi-mcu-demo.git
 
 用户可以把示例代码复制到工程中，具体如下：
 
-复制`src/intoyun-wifi-mcu-sdk/examples/smartLight/stm32f103rbx/`到`src/user/`中。
+复制`src/sdk/examples/smartLight/stm32f103rbx/`到`src/user/`中。
 
 #### 1.2 程序编译
 
